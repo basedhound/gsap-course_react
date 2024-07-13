@@ -1,13 +1,11 @@
 <div align="center">
-    <a href="https://gsap-fv.netlify.app" target="_blank">
-      <img src="public/design/preview.webp" alt="Project Banner">
-    </a>
-  <h3 align="center">GSAP Course</h3>
+    <a href="https://gsap-fv.netlify.app" target="_blank">
+      <img src="public/design/preview.webp" alt="Project Banner">
+    </a>
+  <h3 align="center">GSAP Course</h3>
 </div>
 
-
 ##  <br /> 📋 <a name="table">Table of Contents</a>
-
 
 - ✨ [Introduction](#introduction)
 - ⚙️ [Tech Stack](#tech-stack)
