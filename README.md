@@ -15,10 +15,10 @@
 ##  <br /> <a name="introduction">✨ Introduction</a>
 
 
-**[EN]** Simple GSAP course showcasing various primary animations. GSAP (GreenSock Animation Platform) is used to create fluid and engaging animations.
+**[EN]** Simple GSAP course showcasing various primary animations. GSAP (GreenSock Animation Platform) is a framework-agnostic JavaScript animation library used to create fluid and engaging animations.
 
 
-**[FR]** Cours simple sur GSAP présentant diverses animations principales. GSAP (GreenSock Animation Platform) est utilisé pour créer des animations fluides et captivantes.
+**[FR]** Cours simple de GSAP montrant diverses animations de base. GSAP (GreenSock Animation Platform) est une bibliothèque d'animation JavaScript compatible avec tous les frameworks, utilisée pour créer des animations fluides et attrayantes.
 
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
